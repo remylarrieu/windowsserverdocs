@@ -33,7 +33,7 @@ This article describes the System requirements, prerequisites, and steps to inst
 
 ## Install on Windows 10
 
-When installing on Windows 10, Honolulu will use port 6515 by default, but you have the option to specify a different port. You are also given the choice to create a desktop shortcut and let Project Honolulu mange your TrustedHosts.
+When installing on Windows 10, Honolulu will use port 6515 by default, but you have the option to specify a different port. You are also given the choice to create a desktop shortcut and let Project Honolulu manage your TrustedHosts.
 
 > [!NOTE]
 > Modifying TrustedHosts is required in a workgroup environment, or when using local administrator credentials in a domain. If you choose to forego this setting, you must [configure TrustedHosts manually](honolulu-troubleshoot.md#configure-trustedhosts).
